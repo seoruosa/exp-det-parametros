@@ -1,0 +1,5 @@
+# 1:                2:                          3: 4:      5:
+alfa                "--alfa "                   c  (0.93, 0.95, 0.98)
+iterMaxTemp         "--iterMaxTemp "            c  (20, 30)
+initialTemperature  "--initialTemperature "     c  (300, 250, 200)
+finalTemperature    "--finalTemperature "       c  (0.1)
